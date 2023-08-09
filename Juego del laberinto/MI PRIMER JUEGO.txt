@@ -1,0 +1,19 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch mai
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   game.js
+#
+# Changes not staged for commit:
+#	modified:   Juego.html
+#	modified:   game.js
+#	modified:   maps.js
+#	modified:   style.css
+#
+# Untracked files:
+#	landing_page/
+#
